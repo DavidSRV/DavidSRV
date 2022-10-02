@@ -8,7 +8,7 @@
 
 - 🌱 Actualmente aprendo **React**
 
-- ⚒️ Algunos de mis trabajos: <a href="https://www.linkedin.com/in/david-sebasti%C3%A1n-ruiz-vargas-05b197223/">--> Proyectos</a>
+- ⚒️ Algunos de mis trabajos: <a href="https://github.com/stars/DavidSRV/lists/proyectos">--> Proyectos</a>
 
 - 💬 Preguntame sobre **HTML,CSS and Javascript**
 
