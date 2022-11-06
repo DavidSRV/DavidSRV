@@ -10,7 +10,7 @@
 
 - ⚒️ Algunos de mis trabajos: <a href="https://github.com/stars/DavidSRV/lists/proyectos">--> Proyectos</a>
 
-- 💬 Preguntame sobre **HTML,CSS and Javascript**
+- 💬 Preguntame sobre **HTML,SCSS y REACT**
 
 - 🤓 Me gusta aprender **constantemente**
 
