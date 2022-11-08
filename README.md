@@ -6,9 +6,9 @@
 
 - 😁 Desarrollador Fronted - **Graduado - Universidad CESDE**
 
-- 🌱 Actualmente aprendo **React**
+- 💻 Mira mi portafolio:  <a target="_blank" href="https://davidsrv.github.io/Portfolio-DavidRV/"> --> Apretame!!</a>
 
-- ⚒️ Algunos de mis trabajos: <a href="https://github.com/stars/DavidSRV/lists/proyectos">--> Proyectos</a>
+- ⚒️ Algunos de mis trabajos: <a href="https://github.com/stars/DavidSRV/lists/proyectos"> --> Proyectos</a>
 
 - 💬 Preguntame sobre **HTML,SCSS y REACT**
 
