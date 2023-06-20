@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Bienvenido+a+mi+Github!!)](https://git.io/typing-svg)
 
-- 😁 Desarrollador Fronted - **Graduado - Universidad CESDE**
+- 😁 Desarrollador Fronted - **Universidad CESDE**
 
-- 💻 Mira mi portafolio:  <a target="_blank" href="https://davidsrv.github.io/Portfolio-DavidRV/"> --> Click!!</a>
+- 💻 Mira mi portafolio:  <a href="https://davidsrv.github.io/Portfolio-DavidRV/" target="_blank" > --> Click!!</a>
 
 - ⚒️ Algunos de mis trabajos: <a href="https://github.com/stars/DavidSRV/lists/proyectos"> --> Proyectos</a>
 
