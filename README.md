@@ -18,7 +18,7 @@
 
 <h3 align="left">Encuentrame en:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/david-sebasti%C3%A1n-ruiz-vargas-05b197223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nada elhosary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-sebasti%C3%A1n-ruiz-vargas-05b197223/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nada elhosary" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Lenguajes y tecnologías:</h4>
